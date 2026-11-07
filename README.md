@@ -14,13 +14,6 @@ I build full-stack products in TypeScript, from the React UI down to the server 
 - **AI-native engineering.** Guardrails that keep coding agents honest: hooks, strict type-checked lint, import boundaries, Playwright smoke tests and CI gates. I also write the working agreements my agents follow.
 - **Hosting in my background.** Five years building the frontend for a bare-metal hosting company kept me close to servers, networks and the people who run them.
 
-## Experience
-
-- **Frontend Web Developer**, Hivelocity (bare-metal & cloud hosting) · Contract · 2020–2025
-- **Freelance Software Developer** · 2017–2020
-- **Software Developer**, Njam Njam · 2014–2017
-- **Now:** building internal tools for an e-commerce business (sales and Meta Ads dashboards, ERP integrations, a WooCommerce shop), plus my own products below.
-
 ## Projects
 
 - **[triage](https://github.com/sladjanstojcic/triage)**: one local dashboard for everything running on your Mac and remote hosts. It groups dev servers by project and shows ports, Docker containers, SSH tunnels, Tailscale and VPS resources. I built it for the mess that comes from several agents and terminals starting their own servers. React 19, Vite, TypeScript, Tailwind.

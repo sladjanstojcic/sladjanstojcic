@@ -1,6 +1,6 @@
 # Hi, I'm Sladjan 👋
 
-**Full-Stack Engineer · AI-native workflow · Infrastructure & DevOps** · Bosnia and Herzegovina · 10+ years shipping for the web
+**Full-Stack Engineer · AI-native workflow · Infrastructure & DevOps**
 
 I build full-stack products in TypeScript, from the React UI down to the server it runs on. Every day I work with Claude Code and Codex in a multi-agent setup I designed myself: a written spec, then a plan, then agents that implement each task in their own git worktree, with a second model reviewing every change before it lands.
 

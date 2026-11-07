@@ -33,6 +33,7 @@ I build full-stack products in TypeScript, from the React UI down to the server 
 
 ## Stack
 
+<p>
 <img alt="Build" src="https://img.shields.io/badge/BUILD-30363d?style=flat-square">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white">
@@ -42,7 +43,9 @@ I build full-stack products in TypeScript, from the React UI down to the server 
 <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white">
+</p>
 
+<p>
 <img alt="Run" src="https://img.shields.io/badge/RUN-30363d?style=flat-square">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
@@ -51,9 +54,12 @@ I build full-stack products in TypeScript, from the React UI down to the server 
 <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white">
 <img alt="Caddy" src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white">
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
 
+<p>
 <img alt="AI" src="https://img.shields.io/badge/AI-30363d?style=flat-square">
 <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
 <img alt="Codex" src="https://img.shields.io/badge/Codex-10A37F?style=flat-square">
 <img alt="Anthropic SDK" src="https://img.shields.io/badge/Anthropic_SDK-191919?style=flat-square&logo=anthropic&logoColor=white">
 <img alt="MCP" src="https://img.shields.io/badge/MCP-555555?style=flat-square">
+</p>

@@ -34,4 +34,3 @@ What gets me excited is what happens under the app: bare metal, Linux, networkin
 ## Projects
 
 - **[triage](https://github.com/sladjanstojcic/triage)**: one local dashboard for everything running on your Mac and remote hosts. It groups dev servers by project and shows ports, Docker containers, SSH tunnels, Tailscale and VPS resources. I built it for the mess that comes from several agents and terminals starting their own servers. React 19, Vite, TypeScript, Tailwind.
-- **[lui-krunfw](https://github.com/sladjanstojcic/lui-krunfw)**: a custom libkrunfw kernel with Docker support, for running containers inside lightweight microVMs.

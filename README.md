@@ -17,7 +17,7 @@ I build full-stack products in TypeScript, from the React UI down to the server 
 
 - **[triage](https://github.com/sladjanstojcic/triage)**: one local dashboard for everything running on your Mac and remote hosts. It groups dev servers by project and shows ports, Docker containers, SSH tunnels, Tailscale and VPS resources. I built it for the mess that comes from several agents and terminals starting their own servers. React 19, Vite, TypeScript, Tailwind.
 
-**In the works** (going public soon)
+**In the works**
 
 - **next-harness**: a Next.js starter with guardrails for building with Claude Code and Codex. A single `pnpm check` runs typed lint, import boundaries, dead-code checks, unit tests, the build and Playwright smoke tests, with matching git hooks, agent hooks and CI.
 - **devco**: "Coolify for development". It gives every project and git worktree its own isolated environment on a dev server (ports, Supabase stacks, tunnels) and watches the server's health.

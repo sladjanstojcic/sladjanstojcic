@@ -12,7 +12,6 @@ I build full-stack products in TypeScript, from the React UI down to the server 
 - **Full-stack product work.** Next.js and React apps backed by Supabase/Postgres, SQLite or PocketBase: multi-tenant SaaS, internal dashboards, marketplace tooling and e-commerce.
 - **Infrastructure I run myself.** Hetzner servers built with cloud-init and hardened (key-only SSH, fail2ban, firewalls), self-hosted apps on Coolify, a private Tailscale network, DNSSEC, backups I have test-restored, and bringing a dev server back from a Docker and memory-exhaustion outage.
 - **AI-native engineering.** Guardrails that keep coding agents honest: hooks, strict type-checked lint, import boundaries, Playwright smoke tests and CI gates. I also write the working agreements my agents follow.
-- **Hosting in my background.** Five years building the frontend for a bare-metal hosting company kept me close to servers, networks and the people who run them.
 
 ## Projects
 

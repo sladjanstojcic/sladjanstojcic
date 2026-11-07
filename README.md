@@ -16,12 +16,13 @@ I build full-stack products in TypeScript, from the React UI down to the server 
 ## Projects
 
 - **[triage](https://github.com/sladjanstojcic/triage)**: one local dashboard for everything running on your Mac and remote hosts. It groups dev servers by project and shows ports, Docker containers, SSH tunnels, Tailscale and VPS resources. I built it for the mess that comes from several agents and terminals starting their own servers. React 19, Vite, TypeScript, Tailwind.
+- **[poirot](https://github.com/sladjanstojcic/poirot)**: a traceroute for web requests. Give it a URL and it walks every step of the request (DNS, TCP, TLS, HTTP, redirects) over IPv4 and IPv6, then audits headers, cookies and certificates and grades the site's security. It replaces stitching together `dig`, `curl -v` and `openssl s_client`, and prints a terminal report or JSON. TypeScript, Linux, macOS and Windows.
+- **[plint](https://github.com/sladjanstojcic/plint-cloud-cli)**: static hosting on Bunny.net in one command. Point it at a folder and get a URL: it creates the storage and pull zones, uploads only changed files, deletes removed ones and purges the CDN cache. Every command has `--json` output, and `plint mcp` gives AI agents the same tools over MCP. Node.js.
 
 **In the works**
 
 - **next-harness**: a Next.js starter with guardrails for building with Claude Code and Codex. A single `pnpm check` runs typed lint, import boundaries, dead-code checks, unit tests, the build and Playwright smoke tests, with matching git hooks, agent hooks and CI.
 - **devco**: "Coolify for development". It gives every project and git worktree its own isolated environment on a dev server (ports, Supabase stacks, tunnels) and watches the server's health.
-- **poirot**: a traceroute for web requests. It follows one request through DNS, TCP, TLS and HTTP and grades its security.
 
 ## Stack
 
